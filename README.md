@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 - **[LinkedIn]**(https://www.linkedin.com/in/rich-mwendwa-b3296a302/)
 - **[Twitter]**(https://x.com/richdevv)
+
 ![Rich's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichBen03&show_icons=true&theme=dark)
